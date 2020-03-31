@@ -1,6 +1,19 @@
+@import 'functions';
 
+@import 'reset';
 
-body {
-  font-family: 'Questrial', sans-serif;
-  margin: 0;
-}
+@import 'landing';
+
+@import 'above_fold';
+
+@import 'info_section';
+
+@import 'current_users';
+
+@import 'locations';
+
+@import 'testimonials';
+
+@import 'weekly_deals';
+
+@import 'footer';
